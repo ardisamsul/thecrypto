@@ -1,0 +1,2 @@
+# thecrypto
+Mining for Live
